@@ -2,7 +2,7 @@
 
 __title__ = 'Kilowattage'
 __version__ = '0.1'
-__license__ = 'BSD'
+__license__ = 'MIT'
 __desc__ = ('Calculates unknowns in utility pricing and usage.')
 __url__ = 'https://github.com/cordella/Kilowattage'
 
